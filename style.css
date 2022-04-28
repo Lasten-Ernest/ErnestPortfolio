@@ -8,7 +8,7 @@
   margin: auto;
 }
 
-body {
+body{
   background-color: #fff;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -19,7 +19,6 @@ body {
   padding-top: 8px;
   height: 718px;
   max-width: 375px;
-
   border-bottom-left-radius: 100px;
 } 
 
