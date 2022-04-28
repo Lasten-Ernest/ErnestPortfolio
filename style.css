@@ -8,7 +8,7 @@
   margin: auto;
 }
 
-body{
+body {
   background-color: #fff;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -20,7 +20,7 @@ body{
   height: 718px;
   max-width: 375px;
   border-bottom-left-radius: 100px;
-} 
+}
 
 .main_header {
   padding: 0 32px;
