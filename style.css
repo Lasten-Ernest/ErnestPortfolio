@@ -19,7 +19,6 @@ body {
   padding-top: 8px;
   height: 718px;
   max-width: 375px;
-
   border-bottom-left-radius: 100px;
 } 
 
@@ -51,7 +50,7 @@ h1 {
   font-weight: bold;
 }
 
-.main_content{
+.main_content {
   color: rgb(77, 75, 75);
   line-height: 24px;
   width: 327px;
@@ -73,4 +72,3 @@ h1 {
 .media_links a:hover {
   cursor: pointer;
 }
-
