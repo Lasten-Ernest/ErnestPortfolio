@@ -1,32 +1,29 @@
 /* style sheet the portfolio */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,500;1,600;1,700&display=swap');
 
-.main_container {
+.main_container{
   background-color: aliceblue;
   max-width: 375px;
   height: 718px;
   margin: auto;
 }
 
-body {
+body{
   background-color: #fff;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Porpins, Helvetica, sans-serif;
 }
 
-.inside_container {
+.inside_container{
   background-color: #fff;
   background-image: url("./assets/header-shapes\ mobile.png");
   padding-top: 8px;
   height: 718px;
   max-width: 375px;
+
   border-bottom-left-radius: 100px;
-}
+} 
 
-.main_header {
-  padding: 0 32px;
-}
-
-.navbar {
+.navbar{
   background: #fff;
   display: flex;
   align-items: center;
@@ -47,14 +44,14 @@ body {
   padding: 0 32px;
 }
 
-h2 {
+h1 {
   font-size: 38px;
   line-height: 50px;
   color: darkblue;
   font-weight: bold;
 }
 
-.main_content {
+.main_content{
   color: rgb(77, 75, 75);
   line-height: 24px;
   width: 327px;
@@ -65,7 +62,7 @@ h2 {
   color: rgb(170, 163, 163);
 }
 
-.links_list {
+.links_list{
   list-style: none;
   display: flex;
   width: 163px;
@@ -73,6 +70,7 @@ h2 {
   justify-content: space-between;
 }
 
-.media_links a:hover {
+.media_links a:hover{
   cursor: pointer;
 }
+
